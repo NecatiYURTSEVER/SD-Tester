@@ -20,7 +20,7 @@ VCC->3.3V(or if your module have dc converter u should use 5V)
 
 GND->GND
 
-for screen (0.96 oled)
+[b]for screen (0.96 oled)[/b]
 
 SCL->A5
 
