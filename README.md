@@ -19,3 +19,13 @@ CS->10
 VCC->3.3V(or if your module have dc converter u should use 5V)
 
 GND->GND
+
+for screen (0.96 oled)
+
+SCL->A5
+
+SDA->A4
+
+GND->GND
+
+VCC->5V
